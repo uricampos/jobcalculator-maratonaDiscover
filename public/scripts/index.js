@@ -1,4 +1,4 @@
-import Modal from './modal';
+import Modal from './modal.js';
 
 const modal = Modal({ animateClasses: ['animate-pop', 'back'] })
 
